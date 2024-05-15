@@ -21,7 +21,7 @@ GenPass es una aplicación desarrollada en Visual Studio Code que permite a los 
 - Mayor Seguridad: Las contraseñas generadas cumplen con los estándares de seguridad recomendados y pueden adaptarse a diferentes niveles de complejidad.
 - Organización Eficiente: El sistema de etiquetado permite a los usuarios organizar y acceder rápidamente a sus contraseñas, mejorando la eficiencia y la productividad.
 - Facilidad de Uso: La interfaz intuitiva hace que la generación y el almacenamiento de contraseñas sean accesibles para usuarios de todos los niveles de habilidad técnica.
-- 
+  
 ## **Licencia:**
 GenPass se distribuye bajo la [Licencia MIT](https://opensource.org/licenses/MIT), lo que significa que los usuarios tienen la libertad de utilizar, modificar y distribuir el software, siempre y cuando se incluya el aviso de copyright y la declaración de licencia en todas las copias del software.
 
